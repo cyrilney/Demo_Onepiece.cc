@@ -86,12 +86,12 @@ a:active{
 	font-weight: bold;
 }
 
-#main-area .newslist-column2-wrap .left{
+#main-area #newslist-column2-left{
 	width: 47.5%;
 	float: left;
 }
 
-#main-area .newslist-column2-wrap .right{
+#main-area #newslist-column2-right{
 	width: 47.5%;
 	float:right;
 }
